@@ -5,11 +5,13 @@
 #### Topics covered
 <br>
 <br>
+
 * Inheritance <br>
   -> Multi-Level Inheritance <br>
   -> Singleton Inheritance <br>
   -> Multiple Inheritance is not supported in Java rather use ** Interfaces ** <br>
 <br>
+
 * Encapsulation <br>
   -> Process of hiding data <br>
 <br>
