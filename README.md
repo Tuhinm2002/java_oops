@@ -13,6 +13,7 @@
 * Encapsulation <br>
   -> Process of hiding data <br>
 <br>
+
 * Abstraction <br>
   -> Processes of getting value stored in a variable with the help of getters and setters <br>
 <br>
