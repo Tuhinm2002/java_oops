@@ -5,6 +5,6 @@
 #### Topics covered
 
 * Inheritance
-  -> Multi-Level Inheritance
+  -> Multi-Level Inheritance <br>
   -> Single Inheritance
   
