@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="![vecteezy_pixel-art-illustration-coffee-pixelated-coffee-a-cup-of_26718722](https://github.com/user-attachments/assets/0682d68d-33f9-47b0-bb71-314a64aca84e)" width="100" />
+  <img src=![vecteezy_pixel-art-illustration-coffee-pixelated-coffee-a-cup-of_26718722](https://github.com/user-attachments/assets/0682d68d-33f9-47b0-bb71-314a64aca84e) width="100" />
 </p>
 
 # 🚀 Object-Oriented Programming Concepts in Java
