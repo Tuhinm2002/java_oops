@@ -1,3 +1,5 @@
+![vecteezy_pixel-art-illustration-coffee-pixelated-coffee-a-cup-of_26718722](https://github.com/user-attachments/assets/0682d68d-33f9-47b0-bb71-314a64aca84e)
+
 # 🚀 Object-Oriented Programming Concepts in Java
 
 This repository showcases fundamental concepts of Object-Oriented Programming (OOP) in Java, covering topics like Inheritance, Encapsulation, Abstraction, Polymorphism, and Interfaces.
